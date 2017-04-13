@@ -1,5 +1,6 @@
 # This program demonstrates how to access files from relative path.
-# Also it changes alphanumeric file names to totally alphabetic names
+# Also it changes alphanumeric file names to totally alphabetic names.
+# To successfully run this program create a dir "AllFiles" and add multiple files with alphanumeric names.
 
 from pathlib import Path
 import os

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4667b9e4-5379-4489-bfb0-f37612d469b5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/take_a_break.py" afterPath="$PROJECT_DIR$/take_a_break.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/draw_shapes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RenameFileNames/rename_filenames.py" afterPath="$PROJECT_DIR$/RenameFileNames/rename_filenames.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,20 +25,22 @@
       <file leaf-file-name="rename_filenames.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RenameFileNames/rename_filenames.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
               <folding>
                 <element signature="e#247#271#0" expanded="true" />
+                <marker date="1492167647000" expanded="true" signature="365:580" ph="..." />
+                <marker date="1492167647000" expanded="true" signature="389:580" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="take_a_break.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/take_a_break.py">
+      <file leaf-file-name="draw_shapes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/draw_shapes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="281">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,8 +65,9 @@
         <option value="$PROJECT_DIR$/loops_statements.py" />
         <option value="$PROJECT_DIR$/rename_filenames.py" />
         <option value="$PROJECT_DIR$/RenameFileNames/AllFiles/4u_v_5w.txt" />
-        <option value="$PROJECT_DIR$/RenameFileNames/rename_filenames.py" />
         <option value="$PROJECT_DIR$/take_a_break.py" />
+        <option value="$PROJECT_DIR$/RenameFileNames/rename_filenames.py" />
+        <option value="$PROJECT_DIR$/draw_shapes.py" />
       </list>
     </option>
   </component>
@@ -114,24 +119,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python_Basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python_Basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RenameFileNames" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AllFiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -158,41 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.take_a_break">
-    <configuration default="false" name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_Basics" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloworld.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="loops_statements" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_Basics" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops_statements.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.draw_shapes">
     <configuration default="false" name="take_a_break" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,6 +176,67 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Basics" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RenameFileNames/rename_filenames.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest square" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_Basics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_shapes.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="square" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest square (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_Basics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_shapes.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="square" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="draw_shapes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_Basics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_shapes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -361,18 +375,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.helloworld" />
-      <item index="1" class="java.lang.String" itemvalue="Python.loops_statements" />
-      <item index="2" class="java.lang.String" itemvalue="Python.take_a_break" />
-      <item index="3" class="java.lang.String" itemvalue="Python.rename_filenames" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.take_a_break" />
+      <item index="1" class="java.lang.String" itemvalue="Python.rename_filenames" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest square" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest square (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.draw_shapes" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.take_a_break" />
-        <item index="1" class="java.lang.String" itemvalue="Python.rename_filenames" />
-        <item index="2" class="java.lang.String" itemvalue="Python.loops_statements" />
-        <item index="3" class="java.lang.String" itemvalue="Python.helloworld" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.draw_shapes" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest square (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest square" />
+        <item index="3" class="java.lang.String" itemvalue="Python.take_a_break" />
+        <item index="4" class="java.lang.String" itemvalue="Python.rename_filenames" />
       </list>
     </recent_temporary>
   </component>
@@ -388,6 +404,26 @@
       <updated>1491494932903</updated>
     </task>
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittest_square - 2017.04.19 at 10h 07m 14s.xml">
+      <configuration name="Unittest square" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_square - 2017.04.19 at 10h 07m 32s.xml">
+      <configuration name="Unittest square" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_square - 2017.04.19 at 10h 07m 41s.xml">
+      <configuration name="Unittest square" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_square_(1) - 2017.04.19 at 10h 07m 44s.xml">
+      <configuration name="Unittest square (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_square_(1) - 2017.04.19 at 10h 08m 45s.xml">
+      <configuration name="Unittest square (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_square_(1) - 2017.04.19 at 10h 12m 25s.xml">
+      <configuration name="Unittest square (1)" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="50" width="1260" height="888" extended-state="0" />
@@ -427,22 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loops_statements.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -503,20 +523,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/take_a_break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloworld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops_statements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RenameFileNames/rename_filenames.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
           <folding>
             <element signature="e#247#271#0" expanded="true" />
+            <marker date="1492167647000" expanded="true" signature="365:580" ph="..." />
+            <marker date="1492167647000" expanded="true" signature="389:580" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/take_a_break.py">
+    <entry file="file://$PROJECT_DIR$/draw_shapes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="281">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>

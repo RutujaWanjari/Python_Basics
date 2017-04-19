@@ -7,12 +7,20 @@ import os
 
 p = Path('../RenameFileNames/AllFiles/')
 
-for x in p.iterdir():
-    if x.is_file():
-        print(x.name)
-        file = x.name
-        result = ''.join([i for i in file if not i.isdigit()])
-        os.rename(os.path.join(p, x.name), os.path.join(p, result))
 
-for x in p.iterdir():
-    print(x.name)
+def rename():
+    for x in p.iterdir():
+        if x.is_file():
+            print(x.name)
+            file = x.name
+            result = ''.join([i for i in file if not i.isdigit()])
+            os.rename(os.path.join(p, x.name), os.path.join(p, result))
+
+
+def print_output():
+    for x in p.iterdir():
+        print(x.name)
+
+rename()
+print_output()
+

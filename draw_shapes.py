@@ -29,10 +29,10 @@ def triangle():
 
 
 def art():
+    brad.up()
     brad.right(20)
-    brad.color("Red")
     brad.forward(300)
-    brad.color("Yellow")
+    brad.pd()
 
     for i in range(0, 36):
         brad.right(10)

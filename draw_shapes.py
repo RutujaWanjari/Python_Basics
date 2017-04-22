@@ -11,7 +11,7 @@ brad.speed(3)
 
 
 def square():
-    for i in range(0, 4):
+    for _ in range(0, 4):
         brad.forward(100)
         brad.right(90)
 
@@ -23,7 +23,7 @@ def circle():
 def triangle():
     brad.left(180)
 
-    for j in range(0, 3):
+    for _ in range(0, 3):
         brad.forward(100)
         brad.left(120)
 
@@ -34,7 +34,7 @@ def art():
     brad.forward(300)
     brad.pd()
 
-    for i in range(0, 36):
+    for _ in range(0, 36):
         brad.right(10)
         square()
 

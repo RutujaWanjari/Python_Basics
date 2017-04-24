@@ -1,10 +1,12 @@
 # This program demonstrates how to access files from relative path.
 # Also it changes alphanumeric file names to totally alphabetic names.
-# To successfully run this program create a dir "AllFiles" and add multiple files with alphanumeric names.
+# To successfully run this program create a directory "AllFiles" and add multiple files with alphanumeric names.
 
 from pathlib import Path
 import os
 
+# Path is a class from "pathlib" package. Below we are calling init() function of Path class which initializes it and
+# makes some memory for our work.
 p = Path('../RenameFileNames/AllFiles/')
 
 
@@ -14,7 +16,9 @@ def rename():
             print(x.name)
             file = x.name
             result = ''.join([i for i in file if not i.isdigit()])
-            os.rename(os.path.join(p, x.name), os.path.join(p, result))
+
+            # rename is a function from "os" package
+            rename(os.path.join(p, x.name), os.path.join(p, result))
 
 
 def print_output():
@@ -23,4 +27,3 @@ def print_output():
 
 rename()
 print_output()
-

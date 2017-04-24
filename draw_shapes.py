@@ -22,7 +22,6 @@ def circle():
 
 def triangle():
     brad.left(180)
-
     for _ in range(0, 3):
         brad.forward(100)
         brad.left(120)

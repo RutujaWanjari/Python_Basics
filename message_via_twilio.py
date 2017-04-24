@@ -1,4 +1,4 @@
-# A program demonstrating twilio package usage; which is calling, messaging, etc.
+# A program demonstrating twilio package usage; messaging.
 
 from twilio.rest import Client
 

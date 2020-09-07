@@ -1,4 +1,4 @@
-# Excercise which I couldn't complete
+# Exercise which I couldn't complete
 
 # 1
 a = 45
